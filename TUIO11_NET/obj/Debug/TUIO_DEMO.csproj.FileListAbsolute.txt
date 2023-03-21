@@ -1,0 +1,8 @@
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\bin\Debug\TuioDemo.exe
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\bin\Debug\TuioDemo.pdb
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\obj\Debug\TUIO_DEMO.csprojAssemblyReference.cache
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\obj\Debug\TuioDemo.resources
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.GenerateResource.cache
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\obj\Debug\TUIO_DEMO.csproj.CoreCompileInputs.cache
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\obj\Debug\TuioDemo.exe
+D:\UNI SHIT\SEMESTER 8\HCI\Project\TUIO11_NET\obj\Debug\TuioDemo.pdb
